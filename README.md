@@ -1,2 +1,2 @@
-# BlogSite-fullStack-dev-lara-proj-7
-Blog site admin and user two panel developed with mastering theme and advanced Laravel
+# Blog-fullProject-lara-proj-7
+working project 40 Full blog project Laravel project 7
